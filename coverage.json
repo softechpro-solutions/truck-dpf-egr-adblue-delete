@@ -1,7 +1,9 @@
 {
   "software": "Softechpro Trucks v2.0.4",
   "repository": "truck-dpf-egr-adblue-delete",
+  "title": "Heavy-Duty Truck DPF, EGR & AdBlue/SCR Calibration Suite",
   "official_url": "https://www.softechpro-solutions.com/trucks/dpf-off-truck-software.html",
-  "matched_ecus": 452,
-  "coverage": {}
+  "github_pages_url": "https://softechpro-solutions.github.io/truck-dpf-egr-adblue-delete/",
+  "supported_brands_count": 0,
+  "coverage_sample": {}
 }
